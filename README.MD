@@ -1,11 +1,6 @@
 # Quiz-App
 
-This is my beginner JavaScript project created while learning JavaScript fundamentals. It is a simple quiz application where users can answer multiple-choice questions and view their final score after completing the quizgit init
-git add .
-git commit -m "Initial commit: YouTube clone"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/youtube-clone.git
-git push -u origin main.
+This is my beginner JavaScript project created while learning JavaScript fundamentals. It is a simple quiz application where users can answer multiple-choice questions and view their final score after completing the quiz
 
 ## Features
 
